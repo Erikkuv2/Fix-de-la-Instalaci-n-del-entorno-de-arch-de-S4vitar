@@ -19,7 +19,7 @@ jq inotify-tools polkit-gnome xdotool xclip gpick ffmpeg blueman redshift \
 pipewire pipewire-alsa pipewire-pulse pamixer brightnessctl feh scrot \
 mpv mpd mpc mpdris2 python-mutagen ncmpcpp playerctl --needed
 
-habilitamos los servicios mencionados en el video de S4vitar o en los dotfiles
+habilitamos los servicios mencionados en el video de S4vitar o en el repos
 
 (awesome lo instalaremos una vez hecho el paso de los dotfiles)
 
