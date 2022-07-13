@@ -1,0 +1,1 @@
+# Fix-de-la-Instalaci-n-del-entorno-de-arch-de-S4vitar
